@@ -1,140 +1,136 @@
-body{
-	margin: 0;
-	width: 100%;
+body {
+    margin: 0;
+    width: 100%;
 }
-.top-header{
-	background-color: #0269c2;
-	padding: 8px;
-	text-align: center;
-	margin: 0 auto;
-	color: white;
-	display: block;
-	font-weight: 500;
+.top-header {
+    background-color: #0269c2;
+    padding: 8px;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    display: block;
+    font-weight: 500;
 }
-.top-header p{
-	margin-top: 5px;
-	font-size: 1.5rem;
-
+.top-header p {
+    margin-top: 5px;
+    font-size: 1.5rem;
 }
-header nav{
-	margin-left: 10%;
-	margin-right: 10%;
+header nav {
+    margin-left: 10%;
+    margin-right: 10%;
 }
-header nav li{
-	text-decoration: none;
-	display: inline-block;
-	padding-top: 15px;
-	padding-bottom: 15px;
-	font-size: 1.4rem;
+header nav li {
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 1.4rem;
 }
-header nav li.right{
-	float: right;
-	padding: 15px;
-
+header nav li.right {
+    float: right;
+    padding: 15px;
 }
-header nav li.home{
-	font-size: 1.3em;
+header nav li.home {
+    font-size: 1.3em;
 }
-header nav a:hover{
-	text-decoration: none;
+header nav a:hover {
+    text-decoration: none;
 }
-
-h1 span{
-	font-size: 11rem;
-	border: 1px solid #cdbfe3;
-	border-radius: 20px;
-	padding: 4px 34px;
-	color: white;
+h1 span {
+    font-size: 11rem;
+    border: 1px solid #cdbfe3;
+    border-radius: 20px;
+    padding: 4px 34px;
+    color: white;
 }
-.navbar-static-top{
-	border-width: 0 0 1px;
+.navbar-static-top {
+    border-width: 0 0 1px;
 }
-.navbar{
-	position: relative;
-	height: 50px;
-	border: 1px solid transparent;
+.navbar {
+    position: relative;
+    height: 50px;
+    border: 1px solid transparent;
 }
-.navbar-nav>li>a{
-	color:#563d7c;
-	line-height: 20px;
+.navbar-nav>li>a {
+    color: #563d7c;
+    line-height: 20px;
 }
-.nav >li >a{
-	position: relative;
-	display: block;
+.nav >li >a {
+    position: relative;
+    display: block;
 }
-li{
-	padding: 15px;
-	font-weight: 500;
+li {
+    padding: 15px;
+    font-weight: 500;
 }
-li:hover{
-	text-decoration: none;
+li:hover {
+    text-decoration: none;
 }
-#ad-wrap{
-	top: 0;
-	right: 15px;
-	margin-top: 0;
-	display: block;
-	overflow: hidden;
-	padding: 15px 15px 15px 160px;
-	font-size: 13px;
-	line-height: 1.5;
-	border: 1px solid #866ab3 ;
+#ad-wrap {
+    top: 0;
+    right: 15px;
+    margin-top: 0;
+    display: block;
+    overflow: hidden;
+    padding: 15px 15px 15px 160px;
+    font-size: 13px;
+    line-height: 1.5;
+    border: 1px solid #866ab3;
 }
-.btn{
-	background-color: transparent;
-	border-radius: 5px;
-	border: 1px solid #cdbfe3;
-	font-size: 2rem;
-	color: white;
-	padding: 15px 30px;
-	vertical-align: middle;
-	width: auto;
+.btn {
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid #cdbfe3;
+    font-size: 2rem;
+    color: white;
+    padding: 15px 30px;
+    vertical-align: middle;
+    width: auto;
 }
-.btn:hover{
-	background-color: white;
-	color: #6f5499;
+.btn:hover {
+    background-color: white;
+    color: #6f5499;
 }
-#ad-wrap{
-	text-align: left;
-	width: 330px;
-	margin: 0 auto;
-	border: 1px solid #9783b9;
-	padding: 15px;
-	margin-top: 20px;
+#ad-wrap {
+    text-align: left;
+    width: 330px;
+    margin: 0 auto;
+    border: 1px solid #9783b9;
+    padding: 15px;
+    margin-top: 20px;
 }
-#ad-wrap img{
-	float: left;
+#ad-wrap img {
+    float: left;
 }
-p.ad{
-	position: relative;
-	margin-left: 140px;
-	font-size: 1.4rem;
+p.ad {
+    position: relative;
+    margin-left: 140px;
+    font-size: 1.4rem;
 }
-p.carbon{
-	position: relative;
-	margin-left: 140px;
-	font-size: 1.4rem;
-	color: #cdbfe3;
-
+p.carbon {
+    position: relative;
+    margin-left: 140px;
+    font-size: 1.4rem;
+    color: #cdbfe3;
 }
-.version{
-	font-size: 1.4rem;
-	color: #9783b9;
-	padding: 20px 0;
+.version {
+    font-size: 1.4rem;
+    color: #9783b9;
+    padding: 20px 0;
 }
-.intro{
-	font-size: 3.3rem;
-	width: 80%;
-	margin: 0 auto;
-	font-weight: 300;
-	padding: 30px 0;
+.intro {
+    font-size: 3.3rem;
+    width: 80%;
+    margin: 0 auto;
+    font-weight: 300;
+    padding: 30px 0;
 }
-.container{
-	background-color: #6f5499;
-	width: 100%;
-	padding: 80px;
-	position: relative;
+.container {
+    background-color: #6f5499;
+    width: 100%;
+    padding: 80px;
+    position: relative;
 }
-p{
-	color:white;
+p {
+    color: white;
 }

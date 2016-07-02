@@ -3,6 +3,7 @@
 ##30 days, 30 mock websites. Day Two.
 This is a static page of Bootstap (non-responsive). 
 
+**Something new I learned: Floating an unorderd list to the right will reverse its contents.**
 
 *Will be making the page responsive in the near future.*
 

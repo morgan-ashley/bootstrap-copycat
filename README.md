@@ -5,7 +5,7 @@ This is a static page of Bootstap (non-responsive).
 
 *Something new I learned: Floating an unorderd list to the right will reverse the contents of the list.*
 
-Will be making the page responsive in the near future.
+Future todo: Make it responsive.
 
 [View on CodePen](http://codepen.io/morgan-ashley/pen/NAjEqp)
 

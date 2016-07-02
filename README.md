@@ -3,9 +3,9 @@
 ##30 days, 30 mock websites. Day Two.
 This is a static page of Bootstap (non-responsive). 
 
-**Something new I learned: Floating an unorderd list to the right will reverse its contents.**
+*Something new I learned: Floating an unorderd list to the right will reverse the contents of the list.*
 
-*Will be making the page responsive in the near future.*
+Will be making the page responsive in the near future.
 
 [View on CodePen](http://codepen.io/morgan-ashley/pen/NAjEqp)
 
